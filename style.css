@@ -1,0 +1,65 @@
+.div_g {
+	height: 600px;
+	width: 1000px;
+	margin-left: 25%;
+	margin-top: 5%;
+	border-radius: 10px;
+	border: unset;
+	border-width: 1px;
+}
+.div_text {
+	height: 598px;
+	width: 500px; 
+	float: right;
+	border-radius: 0px 10px 10px 0px;
+	color: white;
+	text-align: center;
+	background-image: linear-gradient(to right, #ff434e , #fe416c);
+}
+.text_wrap {
+	padding-top: 150px;
+	text-align: center;
+	font-size: 42px;
+	font-weight: 900;
+}
+.div_login {
+	height: 598px;
+	width: 500px;
+	background-color: white;
+	border-radius: 10px 0px 0px 10px;
+}
+.h1 {
+	text-align: center;
+	padding-top: 50px;
+	font-weight: 900;
+}
+.s_icons {
+	text-align: center;
+	padding-top: 50px;
+	font-size: 30px;
+}
+.acc {
+	text-align: center;
+	padding-top: 50px;
+}
+.log_info {
+	padding-top: 40px;
+	padding-left: 100px;
+}
+.f_pass {
+	text-align: center;
+	padding-top: 30px;
+	font-size: 20px;
+}
+.button_style {
+	height: 50px;
+	width: 180px;
+	top: 30px;
+	color: white;
+	background-color: #ff4731;
+	position: sticky;
+	margin-left: 160px;
+	border-radius: 25px;
+	border: unset;
+	font-weight: 500;
+}
